@@ -1,1 +1,1 @@
-# Online-student-Feedback-System
+The project's goal is to create an online student feedback system that will allow educational institutions to gather and analyze student feedback on instructors and courses more effectively. Administrators and faculty can access comprehensive reports to pinpoint areas that need improvement, and students will be able to submit feedback via an intuitive web interface. With a four-month timeframe, the project is finished with an emphasis on user-friendly design, and customizable feedback forms.
